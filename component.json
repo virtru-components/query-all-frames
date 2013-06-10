@@ -1,0 +1,20 @@
+{
+  "name": "query-all-frames",
+  "repo": "virtru-components/query-all-frames",
+  "description": "Query all the frames on a page",
+  "version": "0.0.1",
+  "development": {
+    "virtru-components/chai": "*"
+  },
+  "dependencies": {
+    "virtru-components/jquery-pack": "*",
+    "virtru/tdf.js": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "testScripts": [
+    "tests/main.js"
+  ]
+}
